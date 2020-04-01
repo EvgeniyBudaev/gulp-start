@@ -1,5 +1,7 @@
 ## Available Scripts
 
+### `npm i`
+
 устанавливаем node.js
 
 устанавливаем gulp глобально:
