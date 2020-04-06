@@ -15,6 +15,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.vs
 .env.local
 .env.development.local
 .env.test.local
